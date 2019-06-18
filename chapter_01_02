@@ -1,1 +1,9 @@
 Abstractions provide a way of handling complexity.
+
+OOP is essentially about modelling abstractions, by using classes and objects. 
+
+A class models and abstaction by defining the properties and behaviours of the objects which are instances of the class.
+
+A contract for a class defines which services the class offers.
+
+An Implementation of a class defines <<how>> the class provides the services.
